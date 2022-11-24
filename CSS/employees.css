@@ -1136,3 +1136,10 @@ Div element.style {
   .botonreimpresion:hover{
   background-color: #156ee4 !important;
   }
+
+
+
+  [Id^="newcb228FB000"] {
+         display: none !important;
+         /*Titulo numero de boleta y tipo de material*/
+       }
