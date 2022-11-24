@@ -1143,3 +1143,9 @@ Div element.style {
          display: none !important;
          /*Esconde el cuadro infromativo de caspio*/
        }
+
+
+  [Id^="newcb228fb000"] {
+    display: none !important;
+    /*Esconde el cuadro infromativo de caspio*/
+  }
