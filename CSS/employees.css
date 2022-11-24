@@ -344,7 +344,7 @@ li:hover:before {
 }
 
 #TituloPrincipal2   {
-	padding-left: 27%;
+	padding-left: 30.5%;
 	color: var(--blanco);
 	font-size: 20px;
 }
@@ -503,7 +503,7 @@ body header{
 	right: -20px;
 	top: 0px;
 	border-radius: 4px;
-	height: 82.5px;
+	height: 58px;
 	width: 250px;
 	z-index: 100;
  }
