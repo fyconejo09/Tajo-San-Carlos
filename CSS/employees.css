@@ -12,7 +12,7 @@ body {
 	font: 13px/130% Arial, Helvetica, sans-serif;
 	margin: 0px;
 	height: 400px;
-	background-image: url("../Imagenes/slider-nuevo.jpg");
+	background-image: url("../Imagenes/ImagenFondo.jpg");
 	background-size: cover;
 	background-repeat:
 	no-repeat;
@@ -622,7 +622,7 @@ padding: 0px;
 }
 .card{
   width: 100%;
-  height: 780px;
+  height: 615px;
   background-color: var(--nav_bar);
   border-radius: 0px 0px;
   margin-top: 4.6%;
@@ -743,7 +743,7 @@ h3{
 
 #menu ul li ul {
     width: 100%;
-    top: -32%;
+    top: -10%;
 }
 
 #menu span, #menu a {
